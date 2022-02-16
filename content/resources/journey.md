@@ -1,13 +1,18 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/cms-608-game-design-spring-2014/f0fb5e8cc16e2b53a8c89dba44c71231_journey.jpg
+file: /media/courses/cms-608-game-design-spring-2014/f0fb5e8cc16e2b53a8c89dba44c71231_journey.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Game board setup for Journey to the Top of the World, showing game pieces
     and obstacles.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignments and Student Work
+parent_type: CourseSection
 resourcetype: Image
 title: journey.jpg
 uid: f0fb5e8c-c16e-2b53-a8c8-9dba44c71231

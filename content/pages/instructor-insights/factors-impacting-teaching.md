@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 title: Factors Impacting Teaching
 uid: 68b591bd-e6ba-9e2e-16d7-da1a27bf9b95

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 title: Building Game Playing Experience
 uid: d28a7f15-84fb-4c66-1599-3d84ac739fb1

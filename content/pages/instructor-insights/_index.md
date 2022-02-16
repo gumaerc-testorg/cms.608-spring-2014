@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 ---
@@ -52,20 +54,6 @@ One subject in [Comparative Media Studies](http://cmsw.mit.edu/education/subject
 ### Offered
 
 Every spring
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A functional classroom, with long tables, chairs, and lots of black boards.]({{< resource_file 651865e1-057a-12ef-a784-7b6dfd0c6b88 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a seminar room with a capacity of 24, moveable tables and chairs, and a video projector and screen.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

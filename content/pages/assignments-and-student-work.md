@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments and Student Work
 uid: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
 ---

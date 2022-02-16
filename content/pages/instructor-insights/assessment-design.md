@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 title: Assessment Design
 uid: 9554499d-9d09-ed9f-a9e9-8de3755f881f
