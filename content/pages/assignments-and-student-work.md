@@ -1,16 +1,21 @@
 ---
 content_type: page
+description: This section provides details on the course assignments and examples
+  of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments and Student Work
 uid: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
 ---
 
-[Assignment 1: Single Mechanic Game (PDF)]({{< baseurl >}}/resources/mitcms_608s14_asigmentone)  
+{{% resource_link d1b7216e-1a39-06d9-1d2d-4cf5f39bbcb7 "Assignment 1: Single Mechanic Game (PDF)" %}}  
 Design a board or card game that explores one single game mechanic in-depth.
 
-[Assignment 2: Experience and Aesthetics (PDF)]({{< baseurl >}}/resources/mitcms_608s14_asigmenttwo)  
+{{% resource_link 5a8baa16-1507-e41b-0ac6-de36f8902a16 "Assignment 2: Experience and Aesthetics (PDF)" %}}  
 Design a board or card game that focuses on a given player experience as its design goal.
 
-[Assignment 3: Perspective (PDF)]({{< baseurl >}}/resources/mitcms_608s14_asigmentthre)  
+{{% resource_link 419b9d02-2f39-fde0-3b29-1f648c934437 "Assignment 3: Perspective (PDF)" %}}  
 Design a board, card, or live-action game from a particular person's perspective of a real-world political, economic, or social system.
 
 Student Work
@@ -35,9 +40,9 @@ DESCRIPTIONS
 {{< tdopen >}}
 
 
-[![Game board setup for Journey to the Top of the World, showing game pieces and obstacles.]({{< resource_file f0fb5e8c-c16e-2b53-a8c8-9dba44c71231 >}})]({{< baseurl >}}/resources/mitcms_608s14_journey)
+{{< resource uuid="f0fb5e8c-c16e-2b53-a8c8-9dba44c71231" href_uuid="e1f12c11-b50a-072b-a382-2c90d750a3e4" >}}
 
-[Journey to the Top of the World (PDF)]({{< baseurl >}}/resources/mitcms_608s14_journey)
+{{% resource_link e1f12c11-b50a-072b-a382-2c90d750a3e4 "Journey to the Top of the World (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -50,9 +55,9 @@ Sir Edmund Hillary and Sherpa Tenzing Norgay dare to challenge the tallest mount
 {{< tdopen >}}
 
 
- [![Game play setup for Mutiny, with pieces and board layout.]({{< resource_file a2ae1f7c-efa1-8277-8624-307b19588dc3 >}})]({{< baseurl >}}/resources/mitcms_608s14_mutiny)
+ {{< resource uuid="a2ae1f7c-efa1-8277-8624-307b19588dc3" href_uuid="ab37ac96-0c78-e65f-6a69-44d67083229c" >}}
 
-[Mutiny (PDF)]({{< baseurl >}}/resources/mitcms_608s14_mutiny)
+{{% resource_link ab37ac96-0c78-e65f-6a69-44d67083229c "Mutiny (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -65,9 +70,9 @@ Arrrgh, Matey! Welcome t'Mutiny, a game of backstabbin', powergrabbin', and trea
 {{< tdopen >}}
 
 
- [![Game board setup for Roman Conquest: The First Triumvirate, showing pieces and dice.]({{< resource_file 8b88f667-e793-a9e5-06f4-cafad7f8e613 >}})]({{< baseurl >}}/resources/mitcms_608s14_roman)
+ {{< resource uuid="8b88f667-e793-a9e5-06f4-cafad7f8e613" href_uuid="8e640ad7-ac78-ba3e-e922-58580992b364" >}}
 
-[Roman Conquest: The First Triumvirate (PDF)]({{< baseurl >}}/resources/mitcms_608s14_roman)
+{{% resource_link 8e640ad7-ac78-ba3e-e922-58580992b364 "Roman Conquest: The First Triumvirate (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -80,9 +85,9 @@ Caesar, Pompey, and Crassus are each members of the first Triumvirate of Rome, o
 {{< tdopen >}}
 
 
- [![Rules sheet for the game Technicality.]({{< resource_file 3d6ab8ca-20c1-38b9-ba17-005e5c401c15 >}})]({{< baseurl >}}/resources/mitcms_608s14_technicality)
+ {{< resource uuid="3d6ab8ca-20c1-38b9-ba17-005e5c401c15" href_uuid="c449c8e0-3b5c-254a-0a73-028b28c8f2b9" >}}
 
-[Technicality (PDF)]({{< baseurl >}}/resources/mitcms_608s14_technicality)
+{{% resource_link c449c8e0-3b5c-254a-0a73-028b28c8f2b9 "Technicality (PDF)" %}}
 
 
 {{< tdclose >}}

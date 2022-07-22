@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 217110d0-9356-e7df-be34-f4e9e8cb2b03
 ---
@@ -8,7 +12,7 @@ uid: 217110d0-9356-e7df-be34-f4e9e8cb2b03
 
 \[GDW\] = Fullerton, Tracy. _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with [Google Books](http://books.google.com/books?id=OjIYWtqWxtAC&pg=PAfrontcover)\]
 
-Note: This section focuses only on the readings assigned for the course. Not every class session has assigned readings. A full listing of all the course components, including these readings, can be found in the [Calendar]({{< baseurl >}}/pages/calendar) section.
+Note: This section focuses only on the readings assigned for the course. Not every class session has assigned readings. A full listing of all the course components, including these readings, can be found in the {{% resource_link dcab844f-89dc-4aa9-1391-34f066e5d8d2 "Calendar" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -84,7 +88,7 @@ Prototyping
 Mechanics, Dynamics, and Aesthetics: The MDA Framework
 {{< tdclose >}}
 {{< tdopen >}}
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. [_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
 {{< tdclose >}}
 
 {{< trclose >}}

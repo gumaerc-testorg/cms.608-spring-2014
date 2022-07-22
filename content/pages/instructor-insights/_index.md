@@ -1,19 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 ---
+## Course Overview
 
-Course Overview
----------------
-
-This page focuses on the course _CMS.608/CMS.864 Game Design_ as it was taught by Philip Tan and Richard Eberhardt in Spring 2014.
+This page focuses on the course _CMS.608 / CMS.864 Game Design_ as it was taught by Philip Tan and Richard Eberhardt in Spring 2014.
 
 Students in this course learn the discipline of game design, with an emphasis on iteration. We focus on the design of board and card games because they are quick to develop and are easy to change based on tester feedback, helping students to understand why design iteration is important and how it is useful. The course also provides students with a historical overview of how and why games have been made and played through the ages, with a focus on the advent of industrialized game development over the past 150 years. The course is organized around a series of team projects, supported by lab time, workshops, lectures, readings, and discussions.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -21,24 +23,22 @@ The primary goal is for students to gain an understanding of the discipline of g
 
 ### Possibilities for Further Study/Careers
 
-Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including [_CMS.611J Creating Videogames_](/courses/cms-611j-creating-video-games-fall-2014/) and [_11.127J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/). Non-digital game courses include _CMS.617 Advanced Game Studio_ and [_CMS.615 Games for Social Change_](/courses/cms-615-games-for-social-change-fall-2013/).
+Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including [_CMS.611J Creating Video Games_](/courses/cms-611j-creating-video-games-fall-2014) and [_11.127J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015). Non-digital game courses include _CMS.617 Advanced Game Studio_ and [_CMS.615 Games for Social Change_](/courses/cms-615-games-for-social-change-fall-2013).
 
 This course helps prepare students for design careers, especially careers which involve user experience design, such as game development. Students who take this course are often considering game development as a career option, be it working for a large game studio or publisher, starting their own company, or applying game design principles to other disciplines.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-In the following pages, Philip Tan and Richard Eberhardt describe various aspects of how they teach _CMS.608 Game Design_.
+_In the following pages, Philip Tan and Richard Eberhardt describe various aspects of how they teach_ CMS.608 Game Design.
 
-*   [Preparing for the Semester and Class Sessions]({{< baseurl >}}/pages/instructor-insights/preparing-for-the-semester-and-class-sessions)
-*   [Building Game Playing Experience]({{< baseurl >}}/pages/instructor-insights/building-game-playing-experience)
-*   [Assessment Design]({{< baseurl >}}/pages/instructor-insights/assessment-design)
-*   [Factors Impacting Teaching]({{< baseurl >}}/pages/instructor-insights/factors-impacting-teaching)
+- {{% resource_link d1d98d01-b98a-b7bb-ba9e-c8c72802745b "Preparing for the Semester and Class Sessions" %}}
+- {{% resource_link d28a7f15-84fb-4c66-1599-3d84ac739fb1 "Building Game Playing Experience" %}}
+- {{% resource_link 9554499d-9d09-ed9f-a9e9-8de3755f881f "Assessment Design" %}}
+- {{% resource_link 68b591bd-e6ba-9e2e-16d7-da1a27bf9b95 "Factors Impacting Teaching" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -46,31 +46,16 @@ One subject in [Comparative Media Studies](http://cmsw.mit.edu/education/subject
 
 ### Requirements Satisfied
 
-*   HASS-A ![](/images/educator/icon-question-hass-a.png)
-*   HASS ![](/images/educator/icon-question-hass.png) elective
+- HASS-A ![](/images/educator/icon-question-hass-a.png)
+- HASS ![](/images/educator/icon-question-hass.png) elective
 
 ### Offered
 
 Every spring
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A functional classroom, with long tables, chairs, and lots of black boards.]({{< resource_file 651865e1-057a-12ef-a784-7b6dfd0c6b88 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a seminar room with a capacity of 24, moveable tables and chairs, and a video projector and screen.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -78,12 +63,14 @@ The students' grades were based on the following activities:
 - 75% Three team projects (25% each)
 
 ### Instructor Insights on Assessment
-Philip Tan and Rik Eberhardt describe their strategies for assessing learning in the [Assessment Design]({{< baseurl >}}/pages/instructor-insights/assessment-design) section of "This Course at MIT."
 
-Student Information
--------------------
+Philip Tan and Rik Eberhardt describe their strategies for assessing learning in the {{% resource_link 9554499d-9d09-ed9f-a9e9-8de3755f881f "Assessment Design" %}} section of Instructor Insights.
 
-![16 students took this course when it was offered in Spring 2014.]({{< resource_file 95996aea-9540-ebca-066b-c8d9b3ff26de >}})
+## Student Information
+
+### Enrollment
+
+16 students
 
 ### Breakdown by Year
 
@@ -107,38 +94,33 @@ The ideal size for the course is about 20 students – any larger and we lose th
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class/Lecture
-----------------
+### In Class / Lecture
 
-*   Met 2 times per week for 3 hours per session; 26 sessions total; mandatory attendance.
-*   Lecture lasted between 30 minutes to 1 hour, generally based on topics from the readings assigned for that day.
-*   Three days were set aside for guest lectures. One was a two-person panel with professional board game developers who described how and with whom they worked. The other two were presentations given by game studies academics, both of whom research game developers and game players. The goal was to help students understand possible career and education paths in the discipline of game design.
-*   After each lecture, we ran a short discussion session linking reading back to the lecture material. This usually lasted 20-30 minutes.
-*   Each project ended with a 5-minute oral presentation and demonstration of students' games.
+- Met 2 times per week for 3 hours per session; 26 sessions total; mandatory attendance.
+- Lecture lasted between 30 minutes to 1 hour, generally based on topics from the readings assigned for that day.
+- Three days were set aside for guest lectures. One was a two-person panel with professional board game developers who described how and with whom they worked. The other two were presentations given by game studies academics, both of whom research game developers and game players. The goal was to help students understand possible career and education paths in the discipline of game design.
+- After each lecture, we ran a short discussion session linking reading back to the lecture material. This usually lasted 20-30 minutes.
+- Each project ended with a 5-minute oral presentation and demonstration of students' games.
 
-In Class/Lab
-------------
+### In Class / Lab
 
-*   Half of the class sessions were game labs, during which students played sets of games relevant to the course. Students enrolled for graduate credit were required to learn the rules of the prescribed games ahead of each lab session and to be ready to teach the games to the rest of the class.
-*   The last 2 hours of class each day were devoted to team workshops. One hour was devoted to playing commercial, off-the-shelf games that connected back to the lecture and discussion sessions. Students spent the other hour working in teams on their own projects.
-*   In the middle of each project, 2 class periods (specifically, 2 of the 2-hour workshop times) were devoted to playtesting students' games. Student teams played other teams’ games and provided feedback on usability, balance, and fun.
-*   For each project, students brainstormed possible game ideas as an entire class. These brainstorms were then discussed and individuals within the class pitched ideas and formed teams around these ideas.
+- Half of the class sessions were game labs, during which students played sets of games relevant to the course. Students enrolled for graduate credit were required to learn the rules of the prescribed games ahead of each lab session and to be ready to teach the games to the rest of the class.
+- The last 2 hours of class each day were devoted to team workshops. One hour was devoted to playing commercial, off-the-shelf games that connected back to the lecture and discussion sessions. Students spent the other hour working in teams on their own projects.
+- In the middle of each project, 2 class periods (specifically, 2 of the 2-hour workshop times) were devoted to playtesting students' games. Student teams played other teams’ games and provided feedback on usability, balance, and fun.
+- For each project, students brainstormed possible game ideas as an entire class. These brainstorms were then discussed and individuals within the class pitched ideas and formed teams around these ideas.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed readings outside of class. The readings were selected to provide historical context for the design, play, and production of games, as well as to provide students with a deeper understanding of specific approaches to conceptualizing game design.
-*   The course was organized around three team game design projects. While some class time was set aside for groups to work and playtest, the bulk of design and development took place out of class.
+- Students completed readings outside of class. The readings were selected to provide historical context for the design, play, and production of games, as well as to provide students with a deeper understanding of specific approaches to conceptualizing game design.
+- The course was organized around three team game design projects. While some class time was set aside for groups to work and playtest, the bulk of design and development took place out of class.
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Lead Instructor (Philip Tan)
 
