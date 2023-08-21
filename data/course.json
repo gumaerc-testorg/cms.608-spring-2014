@@ -39,8 +39,10 @@
   },
   "learning_resource_types": [
     "Lecture Audio",
-    "Design Assignments with Examples"
+    "Design Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "036a7ea4-8199-4c84-981b-4acadde4a54e",
+  "site_uid": "2a517770-47af-4a6d-8a1c-73aed14b1418",
+  "short_id": "cms.608-spring-2014",
   "title": "Course Metadata"
 }
