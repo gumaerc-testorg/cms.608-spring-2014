@@ -2,11 +2,11 @@
 content_type: page
 description: This section provides audio recordings of selected lecture sessions of
   the course.
-draft: false
+draft: true
 learning_resource_types:
 - Lecture Audio
 ocw_type: CourseSection
-title: Audio Lectures
+title: Audio Lectures (OLD)
 uid: 7b4c102e-6c71-d883-888c-414036092c53
 ---
 Note: This section focuses only on the audio recordings of lectures. Not every class session has audio recordings available. A full listing of all the course components, including these recordings, can be found in the {{% resource_link "dcab844f-89dc-4aa9-1391-34f066e5d8d2" "Calendar" %}} section.

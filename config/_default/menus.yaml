@@ -15,9 +15,9 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 40
-- identifier: 7b4c102e-6c71-d883-888c-414036092c53
+- identifier: 7b8fcb11-3a55-4f3d-af5a-e2d11a4325da
   name: Audio Lectures
-  pageRef: /pages/audio-lectures
+  pageRef: /video_galleries/audio-lectures
   weight: 50
 - identifier: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
   name: Assignments and Student Work
