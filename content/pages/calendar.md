@@ -10,7 +10,7 @@ uid: dcab844f-89dc-4aa9-1391-34f066e5d8d2
 ---
 \[CGD\] = Brathwaite, Brenda, and Ian Schreiber. *Challenges for Game Designers: Non­digital Exercises for Video Game Designers*. Cengage Learning, 2008. ISBN: 9781584505808.
 
-\[GDW\] = Fullerton, Tracy. *Game Design Workshop: A Playcentric Approach to Creating Innovative Games*. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with [Google Books](http://books.google.com/books?id=OjIYWtqWxtAC&pg=PAfrontcover)\]
+\[GDW\] = Fullerton, Tracy. *Game Design Workshop: A Playcentric Approach to Creating Innovative Games*. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with {{% resource_link "cd3c26a7-35b1-4cce-ad27-52b8f2069f3c" "Google Books" %}}\]
 
 Note: This section is intended to give an integrated overview of the course and how its different components fit together. Not every class session includes every kind of resource (readings, audio lectures, etc.).
 
@@ -34,19 +34,19 @@ What is a Game?
 
 ### Game Lab
 
-[*Set*](http://boardgamegeek.com/boardgame/1198/set), Set Enterprises, 1988. ASIN: B00000IV34
+{{% resource_link "731645de-7286-45e3-af66-b9b6f2b64635" "*Set*" %}}, Set Enterprises, 1988. ASIN: B00000IV34
 
-[*Buffalo*](http://boardgamegeek.com/boardgame/127505/buffalo), Tiltfactor, 2012. ASIN: 0984416528
+{{% resource_link "df67c673-8664-4ad9-addb-588393013964" "*Buffalo*" %}}, Tiltfactor, 2012. ASIN: 0984416528
 
-[*Excape*](http://boardgamegeek.com/boardgame/357/excape), Rio Grande Games, 1998. ASIN: B001QFYZNG
+{{% resource_link "f4352f72-133c-47ca-96c1-d21267a5de1c" "*Excape*" %}}, Rio Grande Games, 1998. ASIN: B001QFYZNG
 
-[*Tier Auf Tier (Animal Upon Animal)*](http://boardgamegeek.com/boardgame/17329/animal-upon-animal), HABA, 2005. ASIN: B001IM4CSU
+{{% resource_link "6ad57973-4486-4067-ab25-3d42fc67d8c3" "*Tier Auf Tier (Animal Upon Animal)*" %}}, HABA, 2005. ASIN: B001IM4CSU
 
-[*Code 777*](http://boardgamegeek.com/boardgame/443/code-777), Stronghold Games, 1985. ASIN: B00422KWAK
+{{% resource_link "4417f974-0680-4b51-966c-9502d2a61eb9" "*Code 777*" %}}, Stronghold Games, 1985. ASIN: B00422KWAK
 
-[*Going, Going, GONE!*](http://boardgamegeek.com/boardgame/144761/going-going-gone), Stronghold Games, 2013. ASIN: B00GXBISWM
+{{% resource_link "1a35258d-a45b-4c93-851c-8f7baa3e8e36" "*Going, Going, GONE!*" %}}, Stronghold Games, 2013. ASIN: B00GXBISWM
 
-[*Blokus*](http://boardgamegeek.com/boardgame/2453/blokus), Mattel, 2000. ASIN: B001P06GX4
+{{% resource_link "ffac08e5-182f-4916-b11f-9a33905a9921" "*Blokus*" %}}, Mattel, 2000. ASIN: B001P06GX4
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -98,7 +98,7 @@ Session 3 Part 2: Altering Rules & Playtesting
 Mechanics, Dynamics, and Aesthetics: The MDA Framework
 {{< tdclose >}}{{< tdopen >}}
 
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. [*MDA: A Formal Approach to Game Design and Game Research* (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. {{% resource_link "309dbf60-bf38-40ea-9761-092d9513e4cd" "*MDA: A Formal Approach to Game Design and Game Research* (PDF)" %}}. 2004.
 
 Session 4: Mechanics, Dynamics, Aesthetics - The MDA Framework
 
@@ -124,15 +124,15 @@ Constraints and Usability
 
 ### Game Lab
 
-[*Ascending Empires*](http://boardgamegeek.com/boardgame/37919/ascending-empires), Z-Man Games, 2011. ASIN: B004QL7U84
+{{% resource_link "122f8f9e-7a62-4f3e-b6f7-501f6bcce06b" "*Ascending Empires*" %}}, Z-Man Games, 2011. ASIN: B004QL7U84
 
-[*Pitchcar*](http://boardgamegeek.com/boardgame/150/pitchcar), Ferti, 1995. ASIN: B0006HIZRW
+{{% resource_link "dc3dbf63-e7bb-4281-b02c-dabc958759fe" "*Pitchcar*" %}}, Ferti, 1995. ASIN: B0006HIZRW
 
-[*Container*](http://boardgamegeek.com/boardgame/26990/container), Valley Games, Inc., 2007. ASIN: B0012CMNXC
+{{% resource_link "1f854f72-24c4-4c73-bac5-60e2d4f072fd" "*Container*" %}}, Valley Games, Inc., 2007. ASIN: B0012CMNXC
 
-[*Stratego*](http://boardgamegeek.com/boardgame/1917/stratego), Spin Master Games, 1947. ASIN: B0045OV9IO
+{{% resource_link "a2eac0ba-978a-452d-9708-517b2dd4ba0e" "*Stratego*" %}}, Spin Master Games, 1947. ASIN: B0045OV9IO
 
-[*Villa Paletti*](http://boardgamegeek.com/boardgame/2596/villa-paletti), Wiggles 3D, 2001. ASIN: B001KVMDN0
+{{% resource_link "7e7c6c59-1fda-4994-8eec-3d4c147908fa" "*Villa Paletti*" %}}, Wiggles 3D, 2001. ASIN: B001KVMDN0
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -170,21 +170,21 @@ Randomness and Player Choice
 
 ### Game Lab
 
-[*Race for the Galaxy*](http://boardgamegeek.com/boardgame/28143/race-galaxy), Rio Grande Games, 2007. ASIN: B000YLAOEW
+{{% resource_link "4e381bf0-7cde-4f12-816e-e1821bb0ad14" "*Race for the Galaxy*" %}}, Rio Grande Games, 2007. ASIN: B000YLAOEW
 
-[*Tikal*](http://boardgamegeek.com/boardgame/54/tikal), Rio Grande Games, 1999. ASIN: B0007YDBTG
+{{% resource_link "c67d3dae-fb55-46c9-bd19-22f967b3da16" "*Tikal*" %}}, Rio Grande Games, 1999. ASIN: B0007YDBTG
 
-[*Thebes*](http://boardgamegeek.com/boardgame/30869/thebes), Queen Games, 2007. ASIN: B000UH7SVW
+{{% resource_link "863a40b3-faea-43f8-9b40-bf07ab4c98c5" "*Thebes*" %}}, Queen Games, 2007. ASIN: B000UH7SVW
 
-[*Puerto Rico*](http://boardgamegeek.com/boardgame/3076/puerto-rico), Rio Grande Games, 2002. ASIN: B00008URUT
+{{% resource_link "c7ca18d1-44ed-46f7-951b-03ffcee85944" "*Puerto Rico*" %}}, Rio Grande Games, 2002. ASIN: B00008URUT
 
-[*Dominion*](http://boardgamegeek.com/boardgame/36218/dominion), Rio Grande Games, 2008. ASIN: B001JQY6K4
+{{% resource_link "0ea74bd4-19d9-48fe-94b9-dd8f43b4a8b0" "*Dominion*" %}}, Rio Grande Games, 2008. ASIN: B001JQY6K4
 
-[*Agricola*](http://boardgamegeek.com/boardgame/31260/agricola), Z-Man Games, 2007. ASIN: B001C7617Q
+{{% resource_link "31f1cce2-325d-4973-844d-a352ff6a10d3" "*Agricola*" %}}, Z-Man Games, 2007. ASIN: B001C7617Q
 
 {{< tdclose >}}{{< tdopen >}}
 
-Kaufeld, John. "Randomness, Player Choice, and Player Experience." In [*Tabletop Analog Game Design*](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608.
+Kaufeld, John. "Randomness, Player Choice, and Player Experience." In {{% resource_link "8f7ce75f-4171-40b8-b585-0200769fbeeb" "*Tabletop Analog Game Design*" %}}. Lulu.com, 2011. ISBN: 9781257870608.
 
 Session 9: Randomness and Player Choice
 
@@ -196,15 +196,15 @@ History of American Board Games
 
 ### Game Lab
 
-[*Monopoly*](http://boardgamegeek.com/boardgame/1406/monopoly), Hasbro, 1933. ASIN: B00CV5PN2W
+{{% resource_link "4dd950ff-411a-4632-80ec-4892a74d2679" "*Monopoly*" %}}, Hasbro, 1933. ASIN: B00CV5PN2W
 
-[*Clue*](http://boardgamegeek.com/boardgame/1294/clue), Hasbro, 1949. ASIN: B00349MPQQ
+{{% resource_link "f4b28667-a0bc-495c-8451-424e8e0548cc" "*Clue*" %}}, Hasbro, 1949. ASIN: B00349MPQQ
 
-[*Scrabble*](http://boardgamegeek.com/boardgame/320/scrabble), Hasbro, 1948. ASIN: B00000IWDB
+{{% resource_link "6af4d9fa-d286-493f-b160-983a024c0c01" "*Scrabble*" %}}, Hasbro, 1948. ASIN: B00000IWDB
 
-[*Uno*](http://boardgamegeek.com/boardgame/2223/uno), Mattel, 1971. ASIN: B00004TZY8
+{{% resource_link "32ff485c-b05d-408a-bf79-540f154aaa15" "*Uno*" %}}, Mattel, 1971. ASIN: B00004TZY8
 
-[*Candy Land*](http://boardgamegeek.com/boardgame/5048/candy-land), Hasbro, 1949. ASIN: B00000DMF5
+{{% resource_link "7aed365b-df97-4182-91b6-11683b501086" "*Candy Land*" %}}, Hasbro, 1949. ASIN: B00000DMF5
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -222,11 +222,11 @@ Game, Play, Sport–Definitions
 
 ### Game Lab
 
-[*Steam*](http://boardgamegeek.com/boardgame/27833/steam)*,* MayFair Games, 2009. ASIN: B002B54VAM
+{{% resource_link "faa4cfd4-07a2-481f-b0dd-1427a2b0ed89" "*Steam*" %}}*,* MayFair Games, 2009. ASIN: B002B54VAM
 
-[*Empire Builder*](http://boardgamegeek.com/boardgame/168/empire-builder), MayFair Games, 1982. ASIN: B001PB0V66
+{{% resource_link "af4b62cd-7d13-49a5-a3f3-c4fca2d0bcd2" "*Empire Builder*" %}}, MayFair Games, 1982. ASIN: B001PB0V66
 
-[*Power Grid*](http://boardgamegeek.com/boardgame/2651/power-grid), Rio Grande Games, 2004. ASIN: B0007YDBLE
+{{% resource_link "4979e447-af77-4a23-8c12-27cc7ebcbaa2" "*Power Grid*" %}}, Rio Grande Games, 2004. ASIN: B0007YDBLE
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -240,21 +240,21 @@ Session 11: Defining Game, Play, and Sport
 
 ### Game Lab
 
-[*Zooloretto*](http://boardgamegeek.com/boardgame/27588/zooloretto), Rio Grande Games, 2007. ASIN: B000S0PY2G
+{{% resource_link "59b48b4c-d615-496b-a9ea-c5cef0fccd94" "*Zooloretto*" %}}, Rio Grande Games, 2007. ASIN: B000S0PY2G
 
-[*Ra*](http://boardgamegeek.com/boardgame/12/ra), Rio Grande Games, 1999. ASIN: B002PNCP30
+{{% resource_link "ebab1791-5afb-4c2d-b84c-d1ea4f39267b" "*Ra*" %}}, Rio Grande Games, 1999. ASIN: B002PNCP30
 
-[*Settlers of Catan*](http://boardgamegeek.com/boardgame/13/settlers-catan), MayFair Games, 1995. ASIN: B000W7JWUA
+{{% resource_link "a68ff4ef-4d08-494e-8149-28bf0780c6e9" "*Settlers of Catan*" %}}, MayFair Games, 1995. ASIN: B000W7JWUA
 
-[*Modern Art*](http://boardgamegeek.com/boardgame/118/modern-art), MayFair Games, 1992. ASIN: B0006HCVYU
+{{% resource_link "396d088c-8217-407a-9ecb-82bc1ee6fb75" "*Modern Art*" %}}, MayFair Games, 1992. ASIN: B0006HCVYU
 
-[*Acquire*](http://boardgamegeek.com/boardgame/5/acquire), Wizards of the Coast, 1964. ASIN: 0786950072
+{{% resource_link "1152f277-f3b9-4355-8600-9b616a5baab6" "*Acquire*" %}}, Wizards of the Coast, 1964. ASIN: 0786950072
 
-[7 *Wonders*](http://boardgamegeek.com/boardgame/68448/7-wonders), Asmodee, 2010. ASIN: B0043KJW5M
+{{% resource_link "9e179b88-4e27-41a7-a900-b62e95044e62" "7 *Wonders*" %}}, Asmodee, 2010. ASIN: B0043KJW5M
 
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In *Rules of Play: Game Design Fundamentals*. MIT Press, 2003. ISBN: 9780262240451. \[Preview with [Google Books](http://books.google.com/books?id=UM-xyczrZuQC&pg=PAfrontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In *Rules of Play: Game Design Fundamentals*. MIT Press, 2003. ISBN: 9780262240451. \[Preview with {{% resource_link "55416484-8a7f-48e2-b48c-379e52daafda" "Google Books" %}}\]
 
 *Audio not available*
 
@@ -266,17 +266,17 @@ Cybernetics and Multiplayer
 
 ### Game Lab
 
-[*Hoity Toity*](http://boardgamegeek.com/boardgame/120/hoity-toity), überplay, 1990. ASIN: B0006HCWIA
+{{% resource_link "05b54d18-e90c-4dd0-be41-f8c2d2d7f2ee" "*Hoity Toity*" %}}, überplay, 1990. ASIN: B0006HCWIA
 
-[*Risk*](http://boardgamegeek.com/boardgame/181/risk), Hasbro, 1959. ASIN: B004MRZGC4
+{{% resource_link "d07e9205-a7c0-458d-9f57-86c7c3f9aae5" "*Risk*" %}}, Hasbro, 1959. ASIN: B004MRZGC4
 
-[*El Grande*](http://boardgamegeek.com/boardgame/93/el-grande), Rio Grande Games, 1995. ASIN: B000BXHNX8
+{{% resource_link "10ca3405-e9b2-47c2-bbc9-fbd3be2ef292" "*El Grande*" %}}, Rio Grande Games, 1995. ASIN: B000BXHNX8
 
-[*Lifeboats*](http://boardgamegeek.com/boardgame/249/lifeboats), Z-Man Games, 1993. ASIN: B000LQK4EA
+{{% resource_link "80590e13-cfb1-4217-9dc4-286784b3a115" "*Lifeboats*" %}}, Z-Man Games, 1993. ASIN: B000LQK4EA
 
 {{< tdclose >}}{{< tdopen >}}
 
-Costikyan, Greg, and Drew Davidson, eds. "The 3 Player Problem." In [*Tabletop Analog Game Design*](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608.
+Costikyan, Greg, and Drew Davidson, eds. "The 3 Player Problem." In {{% resource_link "8f7ce75f-4171-40b8-b585-0200769fbeeb" "*Tabletop Analog Game Design*" %}}. Lulu.com, 2011. ISBN: 9781257870608.
 
 Session 13: Cybernetics and Multiplayer
 
@@ -302,11 +302,11 @@ Session 14: Adding and Cutting Mechanics
 
 ### Game Lab
 
-[*Tammany Hall*](http://boardgamegeek.com/boardgame/30645/tammany-hall), Pandasaurus Games, 2007. ASIN: 0615637507
+{{% resource_link "2dec568b-fae5-4082-9a02-830472b28295" "*Tammany Hall*" %}}, Pandasaurus Games, 2007. ASIN: 0615637507
 
-[*Kolejka*](http://boardgamegeek.com/boardgame/85325/kolejka), Instytut Pamici Narodowej, 2011. ASIN: 8376293419
+{{% resource_link "900b271c-92af-4146-bda1-026117c173ef" "*Kolejka*" %}}, Instytut Pamici Narodowej, 2011. ASIN: 8376293419
 
-[*Source of the Nile*](http://boardgamegeek.com/boardgame/1577/source-nile), Avalon Hill, 1978. ASIN: B002ZFOPZY
+{{% resource_link "31c35c24-0cc5-4a57-86c9-b420f36ff48e" "*Source of the Nile*" %}}, Avalon Hill, 1978. ASIN: B002ZFOPZY
 
 {{< tdclose >}}{{< tdopen >}}
 Session 15: Assignment 3
@@ -324,21 +324,21 @@ Simulation and Assignment 3
 
 ### Game Lab
 
-[*Zpocalypse*](http://boardgamegeek.com/boardgame/108665/zpocalypse), GreenBrier Games, 2013. ASIN: B00BIOXIH4
+{{% resource_link "a4ba9764-1ddd-4839-ab6e-197876cbd575" "*Zpocalypse*" %}}, GreenBrier Games, 2013. ASIN: B00BIOXIH4
 
-[*We Didn't Playtest This At All*](http://boardgamegeek.com/boardgame/31016/we-didnt-playtest-all), Asmadi Games, 2007. ASIN: B001N11OI2
+{{% resource_link "ee4144cb-16a2-4565-8a6d-548c0d59d322" "*We Didn't Playtest This At All*" %}}, Asmadi Games, 2007. ASIN: B001N11OI2
 
-[*Innovation*](http://boardgamegeek.com/boardgame/63888/innovation), Asmadi Games, 2010. ASIN: B004196Y06
+{{% resource_link "aa54e49b-05ee-408d-8cd0-8c4c0feda19b" "*Innovation*" %}}, Asmadi Games, 2010. ASIN: B004196Y06
 
-[*The Raccoon is at the Candy Shoppe* (PDF - 3.1MB)](http://playdatenh.files.wordpress.com/2014/01/raccoon-pnp5.pdf), Games by Play Date, 2014.
+{{% resource_link "9d8fdff9-a079-4e51-88c8-6b5ff4e45793" "*The Raccoon is at the Candy Shoppe* (PDF - 3.1MB)" %}}, Games by Play Date, 2014.
 
-[*Slash: Romance Without Boundaries*](http://boardgamegeek.com/boardgame/148209/slash-romance-without-boundaries), Games by Play Date, 2013.
+{{% resource_link "c8e9c1b3-745c-4562-9982-beca4dcae1df" "*Slash: Romance Without Boundaries*" %}}, Games by Play Date, 2013.
 
-[*Element 313* (PDF - 13.7MB)](http://playdatenh.files.wordpress.com/2013/12/313-pnp-dec20131.pdf), Games by Play Date, 2013.
+{{% resource_link "209ce19e-4959-43db-8366-e60b7a6ae8be" "*Element 313* (PDF - 13.7MB)" %}}, Games by Play Date, 2013.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Frasca, Gonzala. "[Simulation 101: Simulation vs Representation](http://www.ludology.org/articles/sim1/simulation101.html)." *ludology.org*. 2001.
+Frasca, Gonzala. "{{% resource_link "66408e06-2033-48ee-8f6c-fe08fd34386d" "Simulation 101: Simulation vs Representation" %}}." *ludology.org*. 2001.
 
 Session 16: The Simulation Gap & Assignment 3 Pitches
 
@@ -364,15 +364,15 @@ Space Control
 
 ### Game Lab
 
-[*Ticket to Ride*](http://boardgamegeek.com/boardgame/9209/ticket-ride), Days of Wonder, 2004. ASIN: 0975277324
+{{% resource_link "26af9058-4e19-4ad9-be87-9e08165f980e" "*Ticket to Ride*" %}}, Days of Wonder, 2004. ASIN: 0975277324
 
-[*Carcassonne*](http://boardgamegeek.com/boardgame/822/carcassonne), Z-Man Games, 2000. ASIN: B008ULAMSG
+{{% resource_link "f9595a65-278d-4c8f-9520-cb0db390f2e6" "*Carcassonne*" %}}, Z-Man Games, 2000. ASIN: B008ULAMSG
 
-[*Through the Desert*](http://boardgamegeek.com/boardgame/503/through-desert), Fantasy Flight Games, 1998. ASIN: 1589942140
+{{% resource_link "bf46e978-0514-4cd8-8b7e-aee8dd4a140d" "*Through the Desert*" %}}, Fantasy Flight Games, 1998. ASIN: 1589942140
 
-[*Qwirkle*](http://boardgamegeek.com/boardgame/25669/qwirkle), MindWare, 2006. ASIN: 1933054395
+{{% resource_link "1bca8b15-83b4-4160-a93d-12da8c78af28" "*Qwirkle*" %}}, MindWare, 2006. ASIN: 1933054395
 
-[*Panic Station*](http://boardgamegeek.com/boardgame/69552/panic-station), Stronghold Games, 2011. ASIN: B0064C7ZMY
+{{% resource_link "171ec663-4bf3-4770-89ec-2af1073a9982" "*Panic Station*" %}}, Stronghold Games, 2011. ASIN: B0064C7ZMY
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -390,7 +390,7 @@ Cooperative Games
 
 {{< tdclose >}}{{< tdopen >}}
 
-GoogleTechTalks. "Cooperation and Engagement: What can board games teach us?" April 30, 2008. YouTube. Accessed August 22, 2014. [https://www.youtube.com/](https://www.youtube.com/) watch?v=cdTVcFo2EQw
+GoogleTechTalks. "Cooperation and Engagement: What can board games teach us?" April 30, 2008. YouTube. Accessed August 22, 2014. {{% resource_link "abd4f25a-b84f-47d9-8136-f9ba2a745e0a" "https://www.youtube.com/" %}} watch?v=cdTVcFo2EQw
 
 Session 20: Cooperative Games
 
@@ -402,21 +402,21 @@ Social Play
 
 ### Game Lab
 
-[*Pandemic*](http://boardgamegeek.com/boardgame/30549/pandemic), Z-Man Games, 2008. ASIN: B00A2HD40E
+{{% resource_link "c3e16d67-ba43-418a-9d27-4ee72df1f9ce" "*Pandemic*" %}}, Z-Man Games, 2008. ASIN: B00A2HD40E
 
-[*Forbidden Island*](http://boardgamegeek.com/boardgame/65244/forbidden-island), Gamewright, 2010. ASIN: B003D7F4YY
+{{% resource_link "e5024f2f-4d9f-4738-8c96-8cf8356512ef" "*Forbidden Island*" %}}, Gamewright, 2010. ASIN: B003D7F4YY
 
-[*Descent*](http://boardgamegeek.com/boardgame/17226/descent-journeys-dark), Fantasy Flight Games, 2005. ASIN: 1616611898
+{{% resource_link "54e9efb7-fed4-458b-a4d7-9a2051450742" "*Descent*" %}}, Fantasy Flight Games, 2005. ASIN: 1616611898
 
-[*Dungeons & Dragons Wrath of Ashardalon*](http://boardgamegeek.com/boardgame/66356/dungeons-dragons-wrath-ashardalon-board-game), Wizards of the Coast, 2011. ASIN: 0786955708
+{{% resource_link "2e96c263-c14a-43c4-ab13-2111f5d57201" "*Dungeons & Dragons Wrath of Ashardalon*" %}}, Wizards of the Coast, 2011. ASIN: 0786955708
 
-[*Shadows over Camelot*](http://boardgamegeek.com/boardgame/15062/shadows-over-camelot), Days of Wonder, 2005. ASIN: 0975277383
+{{% resource_link "e85045c1-e7d0-46cf-b79a-3ac41a083fb3" "*Shadows over Camelot*" %}}, Days of Wonder, 2005. ASIN: 0975277383
 
-[*Battlestar Galactica*](http://boardgamegeek.com/boardgame/37111/battlestar-galactica), Fantasy Flight Games, 2008. ASIN: 1589944607
+{{% resource_link "9166fc94-a128-4a30-ba8d-a57caeca5540" "*Battlestar Galactica*" %}}, Fantasy Flight Games, 2008. ASIN: 1589944607
 
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In *Rules of Play: Game Design Fundamentals*. MIT Press, 2003. ISBN: 9780262240451. \[Preview with [Google Books](http://books.google.com/books?id=UM-xyczrZuQC&pg=PAfrontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In *Rules of Play: Game Design Fundamentals*. MIT Press, 2003. ISBN: 9780262240451. \[Preview with {{% resource_link "55416484-8a7f-48e2-b48c-379e52daafda" "Google Books" %}}\]
 
 Session 21: Social Play
 
@@ -428,17 +428,17 @@ Changing Rules
 
 ### Game Lab
 
-[*Cosmic Encounter*](http://boardgamegeek.com/boardgame/39463/cosmic-encounter), Fantasy Flight Games, 2008. ASIN: 1589944968
+{{% resource_link "38bdec55-bd15-4b1a-b28b-20577eccbaf0" "*Cosmic Encounter*" %}}, Fantasy Flight Games, 2008. ASIN: 1589944968
 
-[*Seafarers of Catan*](http://boardgamegeek.com/boardgameexpansion/325/catan-seafarers), MayFair Games, 1997. ASIN: B000W7G78A
+{{% resource_link "d3d81d4a-5bfa-4023-8dae-18fa5110e1a2" "*Seafarers of Catan*" %}}, MayFair Games, 1997. ASIN: B000W7G78A
 
-[*Quarriors*](http://boardgamegeek.com/boardgame/91536/quarriors), WizKids, 2011. ASIN: B004U5RD1A
+{{% resource_link "5fe8c730-9afd-42f5-a4ae-1ac052387017" "*Quarriors*" %}}, WizKids, 2011. ASIN: B004U5RD1A
 
-[*Risk Legacy*](http://boardgamegeek.com/boardgame/105134/risk-legacy), Hasbro, 2011. ASIN: B005J146MI
+{{% resource_link "265ff9e3-8e19-4eb9-bef2-805f888dd02a" "*Risk Legacy*" %}}, Hasbro, 2011. ASIN: B005J146MI
 
 {{< tdclose >}}{{< tdopen >}}
 
-Olotka, Peter. "Fair Isn’t Funny: The Design of Cosmic Encounter." In [*Tabletop Analog Game Design*](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608.
+Olotka, Peter. "Fair Isn’t Funny: The Design of Cosmic Encounter." In {{% resource_link "8f7ce75f-4171-40b8-b585-0200769fbeeb" "*Tabletop Analog Game Design*" %}}. Lulu.com, 2011. ISBN: 9781257870608.
 
 Session 22: Changing Rules I
 
@@ -450,28 +450,28 @@ Dekoven
 
 ### Game Lab
 
-[*Johann Sebastian Joust*](http://www.jsjoust.com/)
+{{% resource_link "dea7dd7a-a274-43ca-bccc-30a7680abf7b" "*Johann Sebastian Joust*" %}}
 
-[*Spaceteam*](http://www.sleepingbeastgames.com/spaceteam/)
+{{% resource_link "5e8bb349-4d86-4c6f-a349-de826116f673" "*Spaceteam*" %}}
 
-[*Mafia*](http://en.wikipedia.org/wiki/Mafia_%28party_game%29)
+{{% resource_link "ab64e606-f511-464c-b487-d941849d9e33" "*Mafia*" %}}
 
-[*Werewolf*](http://www.boardgamegeek.com/boardgame/925/werewolf)
+{{% resource_link "56047c10-cb07-4a75-b2f2-69de39e05f41" "*Werewolf*" %}}
 
-[*Thumb Wrestling*](http://en.wikipedia.org/wiki/Thumb_war)
+{{% resource_link "8c17d72a-64ea-4351-88a3-b472aef0ddc6" "*Thumb Wrestling*" %}}
 
-(Subject to weather):    
-[*Catch*](http://en.wikipedia.org/wiki/Catch_%28game%29)
+(Subject to weather):     
+{{% resource_link "ecc205ef-30b8-4018-9b3e-7d186207fec5" "*Catch*" %}}
 
-[*Matball*](http://en.wikipedia.org/wiki/Matball)
+{{% resource_link "c8377ab3-cdcc-4148-b22e-a010779259fa" "*Matball*" %}}
 
-[*Ninja*](http://en.wikipedia.org/wiki/Ninja_%28playground_game%29)
+*Ninja*
 
-[*Pepsi­Cola 1­2­3*](http://ewehouse.wordpress.com/2012/08/21/my-childhood-games-from-the-1980s-part-1-2/)
+{{% resource_link "28e3f6bb-0471-4ed4-8017-3507afdba68f" "*Pepsi­Cola 1­2­3*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) De Koven, Bernard. "Changing the Game." In *The Well-Played Game: A Player's Philosophy*. MIT Press, 2013. ISBN: 9780262019170. \[Preview with [Google Books](http://books.google.com/books?id=YYiFAAAAQBAJ&pg=PAfrontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) De Koven, Bernard. "Changing the Game." In *The Well-Played Game: A Player's Philosophy*. MIT Press, 2013. ISBN: 9780262019170. \[Preview with {{% resource_link "e6aed245-95fb-4a80-9d7f-396346f0a1aa" "Google Books" %}}\]
 
 Session 23: Changing Rules II
 
@@ -494,7 +494,7 @@ Session 24: Indie Games and Aesthetics with Jesper Juul
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-**Final Presentations**    
+**Final Presentations**     
 **Changelogs and report due**
 {{< tdclose >}}{{< tdopen >}}
 *Audio not available*

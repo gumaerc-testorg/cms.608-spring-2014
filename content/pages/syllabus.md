@@ -15,7 +15,7 @@ Seminars: 2 sessions / week, 3 hours / session
 
 ## Prerequisites
 
-One subject in [Comparative Media Studies](http://cmsw.mit.edu/education/subject-lists/cms/) or permission of instructor.
+One subject in {{% resource_link "7b5486c6-02a8-4592-82f9-9780c36abeff" "Comparative Media Studies" %}} or permission of instructor.
 
 ## Course Description
 
@@ -37,11 +37,11 @@ The class uses a few selected readings from the following books, which are highl
 
 Brathwaite, Brenda, and Ian Schreiber. _Challenges for Game Designers: Non­digital Exercises for Video Game Designers_. Cengage Learning, 2008. ISBN: 9781584505808.
 
-Fullerton, Tracy. _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with [Google Books](http://books.google.com/books?id=OjIYWtqWxtAC&pg=PAfrontcover)\]
+Fullerton, Tracy. _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with {{% resource_link "cd3c26a7-35b1-4cce-ad27-52b8f2069f3c" "Google Books" %}}\]
 
 ![Buy at MIT Press](/images/mp_logo.gif) Salen, Katie, and Eric Zimmerman. _Rules of Play: Game Design Fundamentals_. MIT Press, 2003. ISBN: 9780262240451.
 
-Costikyan, Greg, and Drew Davidson, eds. [_Tabletop Analog Game Design_](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608.
+Costikyan, Greg, and Drew Davidson, eds. {{% resource_link "8f7ce75f-4171-40b8-b585-0200769fbeeb" "_Tabletop Analog Game Design_" %}}. Lulu.com, 2011. ISBN: 9781257870608.
 
 ## Statement on Plagiarism
 
