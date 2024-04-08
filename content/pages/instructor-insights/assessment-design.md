@@ -17,7 +17,7 @@ The class was organized around {{% resource_link 0c532bff-cfdf-6a8c-2a45-eb1d552
 
 {{< quote "We emphasized that last-minute changes would not rescue their games if they were not continually iterating on their games throughout the development process." "—Philip Tan and Richard Eberhardt" >}}
 
-We, along with [MIT Game Lab](http://gamelab.mit.edu) staff, played the games based on the delivered rules and materials to determine how well the games played. We determined whether or not a third party could play the games without assistance from the designers. As such, rules and materials were graded for legibility.
+We, along with {{% resource_link "23c8416f-dc2f-44a3-8bd2-32a63fcb7864" "MIT Game Lab" %}} staff, played the games based on the delivered rules and materials to determine how well the games played. We determined whether or not a third party could play the games without assistance from the designers. As such, rules and materials were graded for legibility.
 
 Throughout the semester, we communicated that we wanted students to develop their games based on external player behavior and stressed that it would be an organic and long-term process. We emphasized that last-minute changes would not rescue their games if they were not continually iterating on their games throughout the development process. The changelogs helped us determine how well the teams incorporated feedback from playtesting sessions into their game designs. This information, in turn, helped us assess the degree to which students were iterating on their projects over time.
 
