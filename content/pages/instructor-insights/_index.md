@@ -42,7 +42,7 @@ _In the following pages, Philip Tan and Richard Eberhardt describe various aspec
 
 ### Prerequisites
 
-One subject in {{% resource_link "7b5486c6-02a8-4592-82f9-9780c36abeff" "Comparative Media Studies" %}} or permission of instructor.
+One subject in [Comparative Media Studies](http://cmsw.mit.edu/education/subject-lists/cms/) or permission of instructor.
 
 ### Requirements Satisfied
 
@@ -86,7 +86,7 @@ Most of the students had an interest in games when they started the course – s
 
 ### Enrollment Cap 
 
-Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the {{% resource_link "23c8416f-dc2f-44a3-8bd2-32a63fcb7864" "Game Lab" %}} because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
+Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the [Game Lab](http://gamelab.mit.edu) because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
 
 ### Ideal Class Size 
 
