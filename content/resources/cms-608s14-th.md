@@ -3,6 +3,7 @@ content_type: resource
 description: 'Roman Conquest: The First Triumvirate, a game created by a group of
   MIT students. Photograph by Luke Phelan. Used with permission.'
 file: /courses/cms-608-game-design-spring-2014/e7e2016329c3219383447272e6722c1d_cms-608s14-th.jpg
+file_size: 5834
 file_type: image/jpeg
 image_metadata:
   caption: '_Roman Conquest: The First Triumvirate_, a game created by a group of

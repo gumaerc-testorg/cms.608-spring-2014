@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding assignment 3.
 file: /courses/cms-608-game-design-spring-2014/419b9d022f39fde03b291f648c934437_MITCMS_608S14_AsigmentThre.pdf
+file_size: 54952
 file_type: application/pdf
 learning_resource_types:
 - Assignments

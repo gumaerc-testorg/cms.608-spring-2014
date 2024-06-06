@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-608-game-design-spring-2014/95996aea9540ebca066bc8d9b3ff26de_CMS-608_stat-students.png
+file_size: 2849
 file_type: image/png
 image_metadata:
   caption: ''

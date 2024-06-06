@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-608-game-design-spring-2014/a2ae1f7cefa182778624307b19588dc3_mutiny.jpg
+file_size: 52529
 file_type: image/jpeg
 image_metadata:
   caption: ''
