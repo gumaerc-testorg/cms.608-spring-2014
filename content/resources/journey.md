@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-608-game-design-spring-2014/f0fb5e8cc16e2b53a8c89dba44c71231_journey.jpg
+file_size: 44120
 file_type: image/jpeg
 image_metadata:
   caption: ''
