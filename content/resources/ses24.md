@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: null
-file_size: ''
+file_size: '24267560'
 file_type: ''
 image_metadata:
   caption: ''
