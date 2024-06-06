@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding mutiny.
 file: /courses/cms-608-game-design-spring-2014/ab37ac960c78e65f6a6944d67083229c_MITCMS_608S14_Mutiny.pdf
+file_size: 792226
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-608-game-design-spring-2014/8b88f667e793a9e506f4cafad7f8e613_triumverate.jpg
+file_size: 64094
 file_type: image/jpeg
 image_metadata:
   caption: ''
