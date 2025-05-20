@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 1.
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2014/d1b7216e1a3906d91d2d4cf5f39bbcb7_MITCMS_608S14_AsigmentOne.pdf
+file: /courses/cms-608-game-design-spring-2014/d1b7216e1a3906d91d2d4cf5f39bbcb7_MITCMS_608S14_AsigmentOne.pdf
 file_size: 191144
 file_type: application/pdf
 learning_resource_types:

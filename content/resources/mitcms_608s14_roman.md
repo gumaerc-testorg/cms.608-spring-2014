@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding roman. '
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2014/8e640ad7ac78ba3ee92258580992b364_MITCMS_608S14_Roman.pdf
+file: /courses/cms-608-game-design-spring-2014/8e640ad7ac78ba3ee92258580992b364_MITCMS_608S14_Roman.pdf
 file_size: 650658
 file_type: application/pdf
 learning_resource_types:
