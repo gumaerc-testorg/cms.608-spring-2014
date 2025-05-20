@@ -11,7 +11,7 @@ uid: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
 ---
 ## Course Overview
 
-This page focuses on the course _CMS.608 / CMS.864 Game Design_ as it was taught by Philip Tan and Richard Eberhardt in Spring 2014.
+This page focuses on the course *CMS.608 / CMS.864 Game Design* as it was taught by Philip Tan and Richard Eberhardt in Spring 2014.
 
 Students in this course learn the discipline of game design, with an emphasis on iteration. We focus on the design of board and card games because they are quick to develop and are easy to change based on tester feedback, helping students to understand why design iteration is important and how it is useful. The course also provides students with a historical overview of how and why games have been made and played through the ages, with a focus on the advent of industrialized game development over the past 150 years. The course is organized around a series of team projects, supported by lab time, workshops, lectures, readings, and discussions.
 
@@ -23,7 +23,7 @@ The primary goal is for students to gain an understanding of the discipline of g
 
 ### Possibilities for Further Study/Careers
 
-Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including [_CMS.611J Creating Video Games_](/courses/cms-611j-creating-video-games-fall-2014) and [_11.127J Computer Games and Simulations for Investigation and Education_](/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015). Non-digital game courses include _CMS.617 Advanced Game Studio_ and [_CMS.615 Games for Social Change_](/courses/cms-615-games-for-social-change-fall-2013).
+Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including [*CMS.611J Creating Video Games*](https://ocw-studio.odl.mit.edu/courses/cms-611j-creating-video-games-fall-2014) and [*11.127J Computer Games and Simulations for Investigation and Education*](https://ocw-studio.odl.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015). Non-digital game courses include *CMS.617 Advanced Game Studio* and [*CMS.615 Games for Social Change*](https://ocw-studio.odl.mit.edu/courses/cms-615-games-for-social-change-fall-2013).
 
 This course helps prepare students for design careers, especially careers which involve user experience design, such as game development. Students who take this course are often considering game development as a career option, be it working for a large game studio or publisher, starting their own company, or applying game design principles to other disciplines.
 
@@ -31,18 +31,18 @@ This course helps prepare students for design careers, especially careers which 
 
 ## Instructor Interview
 
-_In the following pages, Philip Tan and Richard Eberhardt describe various aspects of how they teach_ CMS.608 Game Design.
+*In the following pages, Philip Tan and Richard Eberhardt describe various aspects of how they teach* CMS.608 Game Design.
 
-- {{% resource_link d1d98d01-b98a-b7bb-ba9e-c8c72802745b "Preparing for the Semester and Class Sessions" %}}
-- {{% resource_link d28a7f15-84fb-4c66-1599-3d84ac739fb1 "Building Game Playing Experience" %}}
-- {{% resource_link 9554499d-9d09-ed9f-a9e9-8de3755f881f "Assessment Design" %}}
-- {{% resource_link 68b591bd-e6ba-9e2e-16d7-da1a27bf9b95 "Factors Impacting Teaching" %}}
+- {{% resource_link "d1d98d01-b98a-b7bb-ba9e-c8c72802745b" "Preparing for the Semester and Class Sessions" %}}
+- {{% resource_link "d28a7f15-84fb-4c66-1599-3d84ac739fb1" "Building Game Playing Experience" %}}
+- {{% resource_link "9554499d-9d09-ed9f-a9e9-8de3755f881f" "Assessment Design" %}}
+- {{% resource_link "68b591bd-e6ba-9e2e-16d7-da1a27bf9b95" "Factors Impacting Teaching" %}}
 
 ## Curriculum Information
 
 ### Prerequisites
 
-One subject in [Comparative Media Studies](http://cmsw.mit.edu/education/subject-lists/cms/) or permission of instructor.
+One subject in [Comparative Media Studies](https://cmsw.mit.edu/) or permission of instructor.
 
 ### Requirements Satisfied
 
@@ -64,7 +64,7 @@ The students' grades were based on the following activities:
 
 ### Instructor Insights on Assessment
 
-Philip Tan and Rik Eberhardt describe their strategies for assessing learning in the {{% resource_link 9554499d-9d09-ed9f-a9e9-8de3755f881f "Assessment Design" %}} section of Instructor Insights.
+Philip Tan and Rik Eberhardt describe their strategies for assessing learning in the {{% resource_link "9554499d-9d09-ed9f-a9e9-8de3755f881f" "Assessment Design" %}} section of Instructor Insights.
 
 ## Student Information
 
@@ -86,7 +86,7 @@ Most of the students had an interest in games when they started the course – s
 
 ### Enrollment Cap 
 
-Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the [Game Lab](http://gamelab.mit.edu) because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
+Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the [Game Lab](http://gamelab.mit.edu/) because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
 
 ### Ideal Class Size 
 
