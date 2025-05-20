@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2014/3d6ab8ca20c138b9ba17005e5c401c15_technicality.jpg
+file: /courses/cms-608-game-design-spring-2014/3d6ab8ca20c138b9ba17005e5c401c15_technicality.jpg
 file_size: 35450
 file_type: image/jpeg
 image_metadata:
