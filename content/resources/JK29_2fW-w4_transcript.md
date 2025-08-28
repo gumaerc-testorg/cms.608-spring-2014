@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2014/JK29_2fW-w4_transcript.pdf
 file_size: 78736
 file_type: application/pdf
 learning_resource_types: []

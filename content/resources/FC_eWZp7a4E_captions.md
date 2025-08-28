@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/cms-608-game-design-spring-2014/FC_eWZp7a4E_captions.webvtt
 file_size: 34919
 file_type: application/x-subrip
 learning_resource_types: []
