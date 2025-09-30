@@ -23,7 +23,7 @@ The primary goal is for students to gain an understanding of the discipline of g
 
 ### Possibilities for Further Study/Careers
 
-Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including [*CMS.611J Creating Video Games*](https://ocw-studio.odl.mit.edu/courses/cms-611j-creating-video-games-fall-2014) and [*11.127J Computer Games and Simulations for Investigation and Education*](https://ocw-studio.odl.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015). Non-digital game courses include *CMS.617 Advanced Game Studio* and [*CMS.615 Games for Social Change*](https://ocw-studio.odl.mit.edu/courses/cms-615-games-for-social-change-fall-2013).
+Common next courses include other game development courses taught at MIT, most of which feature video game design as the course work, including {{% resource_link "b0c50d4d-ebab-43c4-b5d8-81735a8e86dc" "*CMS.611J Creating Video Games*" %}} and {{% resource_link "ea7091fe-959b-46e9-baee-f9e1482f4c46" "*11.127J Computer Games and Simulations for Investigation and Education*" %}}. Non-digital game courses include *CMS.617 Advanced Game Studio* and {{% resource_link "68231c13-4d2e-4ab3-bd67-8721cd06c67e" "*CMS.615 Games for Social Change*" %}}.
 
 This course helps prepare students for design careers, especially careers which involve user experience design, such as game development. Students who take this course are often considering game development as a career option, be it working for a large game studio or publisher, starting their own company, or applying game design principles to other disciplines.
 
@@ -42,7 +42,7 @@ This course helps prepare students for design careers, especially careers which 
 
 ### Prerequisites
 
-One subject in [Comparative Media Studies](https://cmsw.mit.edu/) or permission of instructor.
+One subject in {{% resource_link "8835a830-3536-4425-8ccd-cbd46102aa6b" "Comparative Media Studies" %}} or permission of instructor.
 
 ### Requirements Satisfied
 
@@ -86,7 +86,7 @@ Most of the students had an interest in games when they started the course – s
 
 ### Enrollment Cap 
 
-Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the [Game Lab](http://gamelab.mit.edu/) because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
+Enrollment for the course is limited to about twenty-five students. The cap is largely due to the capacity and features of the room we are normally able to secure for the class. The class requires a lot of flat surfaces and movable tables. We also need the classroom to be close to the {{% resource_link "3b822688-5185-49c9-9960-2362192ae066" "Game Lab" %}} because of the large amount of materials we bring from the lab for each class session, such as multiple boxes of prototyping supplies (paper, markers, index cards, counters, etc.) and copies of board games.
 
 ### Ideal Class Size 
 
