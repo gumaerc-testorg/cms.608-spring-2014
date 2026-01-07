@@ -10,7 +10,7 @@ uid: 217110d0-9356-e7df-be34-f4e9e8cb2b03
 
 \[CGD\] = Brathwaite, Brenda, and Ian Schreiber. _Challenges for Game Designers: Non­digital Exercises for Video Game Designers_. Cengage Learning, 2008. ISBN: 9781584505808.
 
-\[GDW\] = Fullerton, Tracy. _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with [Google Books](http://books.google.com/books?id=OjIYWtqWxtAC&pg=PAfrontcover)\]
+\[GDW\] = Fullerton, Tracy. _Game Design Workshop: A Playcentric Approach to Creating Innovative Games_. 2nd ed. CRC Press, 2008. ISBN: 9780240809748. \[Preview with {{% resource_link "b404b355-4119-4d7a-bc81-07b1bdaf82e9" "Google Books" %}}\]
 
 Note: This section focuses only on the readings assigned for the course. Not every class session has assigned readings. A full listing of all the course components, including these readings, can be found in the {{% resource_link dcab844f-89dc-4aa9-1391-34f066e5d8d2 "Calendar" %}} section.
 
@@ -88,7 +88,7 @@ Prototyping
 Mechanics, Dynamics, and Aesthetics: The MDA Framework
 {{< tdclose >}}
 {{< tdopen >}}
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. [_MDA: A Formal Approach to Game Design and Game Research_ (PDF)](http://www.cs.northwestern.edu/~hunicke/MDA.pdf). 2004.
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. {{% resource_link "f749a2e4-0cc0-4df6-a6bf-9628684ae281" "_MDA: A Formal Approach to Game Design and Game Research_ (PDF)" %}}. 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Assignment 1 report and changelog due
 Randomness and Player Choice
 {{< tdclose >}}
 {{< tdopen >}}
-Kaufeld, John. "Randomness, Player Choice, and Player Experience." In [_Tabletop Analog Game Design_](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608. \[Preview with [Google Books](http://books.google.com/books?id=qf1XAwAAQBAJ&pg=PA33#v=onepage)\]
+Kaufeld, John. "Randomness, Player Choice, and Player Experience." In {{% resource_link "3d578d88-5d57-48d8-85b4-b46219380ab9" "_Tabletop Analog Game Design_" %}}. Lulu.com, 2011. ISBN: 9781257870608. \[Preview with {{% resource_link "1368d3e2-649e-40af-b3b1-d755d0a049c8" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +184,7 @@ Partlett, David. "Welcome Aboard." In _The Oxford History of Board Games_." Oxfo
 Game Lab
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In _Rules of Play: Game Design Fundamentals_. MIT Press, 2003. ISBN: 9780262240451. \[Preview with [Google Books](http://books.google.com/books?id=UM-xyczrZuQC&pg=PAfrontcover)\]
+{{% resource_link "5fccaacb-2437-45fa-913f-ee15e1cf0a1b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, Katie, and Eric Zimmerman. "Games as Systems of Information." In _Rules of Play: Game Design Fundamentals_. MIT Press, 2003. ISBN: 9780262240451. \[Preview with {{% resource_link "0cd6c3e6-22d0-43c2-8951-45a2941de508" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ Game Lab
 Cybernetics and Multiplayer
 {{< tdclose >}}
 {{< tdopen >}}
-Costikyan, Greg, and Drew Davidson, eds. "The 3 Player Problem." In [_Tabletop Analog Game Design_](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608. \[Preview with [Google Books](http://books.google.com/books?id=qf1XAwAAQBAJ&pg=PA17#v=onepage)\]
+Costikyan, Greg, and Drew Davidson, eds. "The 3 Player Problem." In {{% resource_link "3d578d88-5d57-48d8-85b4-b46219380ab9" "_Tabletop Analog Game Design_" %}}. Lulu.com, 2011. ISBN: 9781257870608. \[Preview with {{% resource_link "b8dad878-e40f-4988-96a9-a57e2e206ae8" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +220,7 @@ Adding and Cutting Mechanics
 Simulation and Assignment 3
 {{< tdclose >}}
 {{< tdopen >}}
-Frasca, Gonzala. "[Simulation 101: Simulation vs Representation](http://www.ludology.org/articles/sim1/simulation101.html)." _ludology.org._ 2001.
+Frasca, Gonzala. "{{% resource_link "165214c3-366c-40f4-9c43-0bd20fce0c4f" "Simulation 101: Simulation vs Representation" %}}." _ludology.org._ 2001.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,7 +248,7 @@ Partlett, David. "Space Control" and "Corner Your Fauna." In _The Oxford History
 Cooperative Game
 {{< tdclose >}}
 {{< tdopen >}}
-GoogleTechTalks. "Cooperation and Engagement: What can board games teach us?" April 30, 2008. YouTube. Accessed August 22, 2014. [https://www.youtube.com/ watch?v=cdTVcFo2EQw](https://www.youtube.com/watch?v=cdTVcFo2EQw)
+GoogleTechTalks. "Cooperation and Engagement: What can board games teach us?" April 30, 2008. YouTube. Accessed August 22, 2014. {{% resource_link "476976aa-8962-4367-90de-72c7c65e2934" "https://www.youtube.com/ watch?v=cdTVcFo2EQw" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +260,7 @@ GoogleTechTalks. "Cooperation and Engagement: What can board games teach us?" Ap
 Social Play
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, Katie, and Eric Zimmerman. "Games as Social Play." In _Rules of Play: Game Design Fundamentals_. MIT Press, 2003. ISBN: 9780262240451.
+{{% resource_link "5fccaacb-2437-45fa-913f-ee15e1cf0a1b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, Katie, and Eric Zimmerman. "Games as Social Play." In _Rules of Play: Game Design Fundamentals_. MIT Press, 2003. ISBN: 9780262240451.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +272,7 @@ Social Play
 Changing Rules
 {{< tdclose >}}
 {{< tdopen >}}
-Olotka, Peter. "Fair Isn’t Funny: The Design of Cosmic Encounter." In [_Tabletop Analog Game Design_](http://www.lulu.com/shop/drew-davidson-and-greg-costikyan-and-et-al/tabletop-analog-game-design/paperback/product-16534152.html). Lulu.com, 2011. ISBN: 9781257870608.
+Olotka, Peter. "Fair Isn’t Funny: The Design of Cosmic Encounter." In {{% resource_link "3d578d88-5d57-48d8-85b4-b46219380ab9" "_Tabletop Analog Game Design_" %}}. Lulu.com, 2011. ISBN: 9781257870608.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -284,7 +284,7 @@ Olotka, Peter. "Fair Isn’t Funny: The Design of Cosmic Encounter." In [_Tablet
 Dekoven
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019170) De Koven, Bernard. "Changing the Game." In _The Well-Played Game: A Player's Philosophy_. MIT Press, 2013. ISBN: 9780262019170. \[Preview with [Google Books](http://books.google.com/books?id=YYiFAAAAQBAJ&pg=PAfrontcover)\]
+{{% resource_link "17c4f335-252d-4633-9166-c93f88ffed05" "![Buy at MIT Press](/images/mp_logo.gif)" %}} De Koven, Bernard. "Changing the Game." In _The Well-Played Game: A Player's Philosophy_. MIT Press, 2013. ISBN: 9780262019170. \[Preview with {{% resource_link "49d10c40-5d44-4814-b4f6-39365c4ddbff" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
